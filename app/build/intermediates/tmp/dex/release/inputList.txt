@@ -1,0 +1,5 @@
+/Users/beraaksoy/Documents/Thinkful/Android/ScrollViewExample/app/build/intermediates/classes/release
+/Users/beraaksoy/Documents/Thinkful/Android/ScrollViewExample/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-1968d535b3eb209f09bbec9f401d7b0ef12f4a21.jar
+/Users/beraaksoy/Documents/Thinkful/Android/ScrollViewExample/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-f8d2b610699fe0f22841b991fda5bcb32188971d.jar
+/Users/beraaksoy/Documents/Thinkful/Android/ScrollViewExample/app/build/intermediates/pre-dexed/release/classes-a34104a817bef2798e3c009f53c576678d9fbf33.jar
+/Users/beraaksoy/Documents/Thinkful/Android/ScrollViewExample/app/build/intermediates/pre-dexed/release/classes-e0c0019c4b7d52b1b6641a11e60acb27b2ede4e3.jar
