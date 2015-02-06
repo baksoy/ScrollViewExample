@@ -55,4 +55,4 @@ tools:context=".MainActivity">
         android:layout_gravity="center_horizontal"
         android:textColor="#030302"/>
 
-</LinearLayout>
+</LinearLayout><!-- From: file:/Users/beraaksoy/Documents/Thinkful/Android/ScrollViewExample/app/src/main/res/layout/activity_login.xml -->

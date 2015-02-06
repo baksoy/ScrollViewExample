@@ -12,10 +12,10 @@ public class MainActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_login);
 
-        WebView webview = (WebView) findViewById(R.id.web_view);
-        webview.loadUrl("http://www.thinkful.com");
+//        WebView webview = (WebView) findViewById(R.id.web_view);
+//        webview.loadUrl("http://www.thinkful.com");
     }
 
 
